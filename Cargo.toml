@@ -1,0 +1,9 @@
+[workspace]
+
+# for `edition = "2021"`
+resolver = "2"
+
+members = [
+  "furigana-epub",
+  "wasm"
+]
